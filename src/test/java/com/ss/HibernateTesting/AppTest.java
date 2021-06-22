@@ -13,7 +13,7 @@ public class AppTest
     /**
      * Create the test case
      *
-     * @param testName name of the test cases
+     * @param testName name of the test caes\\s
      */
     public AppTest( String testName )
     {
@@ -21,7 +21,7 @@ public class AppTest
     }
 
     /**
-     * @return the suite of tests being .     */
+     * @return the suite of tests being tested.     */
     public static Test suite()
     {
         return new TestSuite( AppTest.class );
